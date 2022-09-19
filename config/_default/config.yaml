@@ -34,3 +34,8 @@ permalinks:
 
 # module:
   # proxy: https://goproxy.cn
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
