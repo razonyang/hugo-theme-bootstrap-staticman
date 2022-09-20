@@ -152,11 +152,24 @@ creativeCommons:
   #theme:  
 
 staticman:
-  baseURL: https://hbs-staticman.herokuapp.com
+  endpoint: https://hbs-staticman.herokuapp.com
   repo: razonyang/hugo-bootstrap-theme-staticman
+  service: github
   branch: main
   # property: comments
-  sorting: desc
+  sorting: asc
+
+algolia:
+  vars:
+    - titles
+    - summary
+    - date
+    - publishdate
+    - expirydate
+    - permalink
+  params:
+    - categories
+    - tags
 
 #giscus:
   # repo: ""
