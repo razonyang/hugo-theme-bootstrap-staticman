@@ -419,7 +419,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663657411">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">(•_•)?
@@ -434,13 +434,6 @@
 
 </div>
 
-<nav aria-label="Comments navigation">
-  <ul class="pagination">
-                <li class="page-item active" aria-current="page">
-                    <a class="page-link" href="javascript: void(0);">1</a>
-                </li>
-  </ul>
-</nav>
 
         </div>
     </div>

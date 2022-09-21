@@ -423,7 +423,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663654852">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">Hello message.
@@ -440,7 +440,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655156">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -459,7 +459,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d4c74594d841139328695756648b6bd6?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">John</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">John</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655015">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -481,7 +481,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d87dc7cde18e776798f1c20ed35791b2?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Sean</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Sean</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655227">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;Hello world.&#34;</span>
@@ -499,7 +499,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Jolin</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Jolin</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663738302">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -519,7 +519,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Ozzo</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Ozzo</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663738360">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -539,13 +539,6 @@
 
 </div>
 
-<nav aria-label="Comments navigation">
-  <ul class="pagination">
-                <li class="page-item active" aria-current="page">
-                    <a class="page-link" href="javascript: void(0);">1</a>
-                </li>
-  </ul>
-</nav>
 
         </div>
     </div>

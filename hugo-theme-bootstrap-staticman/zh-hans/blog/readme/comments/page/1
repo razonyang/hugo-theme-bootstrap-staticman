@@ -419,7 +419,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663592432">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface">博主你好，请问你的博客是用什么构建的呢？
@@ -436,7 +436,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595575">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -455,7 +455,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/97a979289edfdf0031359cff31583ef3?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">李四</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">李四</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663592588">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -474,7 +474,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663594351">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -493,7 +493,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663648171">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -515,7 +515,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/eb582a1e3e4a997d0bcbe2e71e63997e?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">小明</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">小明</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663594438">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface"><strong>Markdown</strong> <em>text</em>.
@@ -533,7 +533,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/6902b1063a07d2dc2481287ce995906c?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Hacker</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Hacker</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663594537">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface"><span class="text-muted opacity-50"><del>invalid message</del></span>
@@ -551,7 +551,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/21dde7574d575b132da907bc87bf3973?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">小红</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">小红</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663594948">2022年9月19日</span>
     </div>
     <div class="mb-2 text-surface">😀 Emoji 测试 ❤️
@@ -569,7 +569,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663633348">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">测试
@@ -586,7 +586,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/eb582a1e3e4a997d0bcbe2e71e63997e?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">小明</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">小明</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663633448">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -605,7 +605,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663633477">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">
@@ -623,7 +623,6 @@
 </div>
 
 </div>
-
 <nav aria-label="Comments navigation">
   <ul class="pagination">
                 <li class="page-item active" aria-current="page">

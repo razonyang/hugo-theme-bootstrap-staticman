@@ -422,7 +422,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">张三</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">张三</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663641526">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">HiHi
@@ -439,7 +439,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/f0c3acd8a5e2b954b76bfd774a667cf1?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://google.com" target="_blank" rel="noopener noreferrer">张三</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://google.com" target="_blank" rel="noopener noreferrer">张三</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663649108">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -458,7 +458,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/97a979289edfdf0031359cff31583ef3?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://bing.com" target="_blank" rel="noopener noreferrer">李四</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://bing.com" target="_blank" rel="noopener noreferrer">李四</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663649299">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -477,7 +477,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://hbs.razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://hbs.razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663650388">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -499,7 +499,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663648485">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">dddd
@@ -517,7 +517,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d4c74594d841139328695756648b6bd6?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://github.com" target="_blank" rel="noopener noreferrer">John</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://github.com" target="_blank" rel="noopener noreferrer">John</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663649081">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">Hi
@@ -532,13 +532,6 @@
 
 </div>
 
-<nav aria-label="Comments navigation">
-  <ul class="pagination">
-                <li class="page-item active" aria-current="page">
-                    <a class="page-link" href="javascript: void(0);">1</a>
-                </li>
-  </ul>
-</nav>
 
         </div>
     </div>

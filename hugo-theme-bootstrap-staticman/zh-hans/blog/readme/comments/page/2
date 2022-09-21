@@ -419,7 +419,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663648144">2022年9月20日</span>
     </div>
     <div class="mb-2 text-surface">abc
@@ -433,7 +433,6 @@
 </div>
 
 </div>
-
 <nav aria-label="Comments navigation">
   <ul class="pagination">
                 <li class="page-item">

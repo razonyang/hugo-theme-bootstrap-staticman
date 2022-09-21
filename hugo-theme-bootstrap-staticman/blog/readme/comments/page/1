@@ -423,7 +423,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595644">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface">Hello world.
@@ -440,7 +440,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663675906">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -459,7 +459,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663739716">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -481,7 +481,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d4c74594d841139328695756648b6bd6?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">John</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">John</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595703">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface">❤️ Emoji Testing ❤️
@@ -498,7 +498,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">XiaoXiao</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">XiaoXiao</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663739811">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -517,7 +517,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663660998">September 20, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -539,7 +539,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/4b9bb80620f03eb3719e0a061c14283d?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Bob</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Bob</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595735">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface">Hi, which framework do you use to build your site?
@@ -556,7 +556,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/4b9bb80620f03eb3719e0a061c14283d?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Bob</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Bob</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663596070">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -575,7 +575,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">RazonYang</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">RazonYang</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595786">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -597,7 +597,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/6902b1063a07d2dc2481287ce995906c?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Hacker</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Hacker</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595877">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface"><span class="text-muted opacity-50"><del>invalid message</del></span>
@@ -614,7 +614,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/67e25bfb2fafa91b7a1a4f99046fd4da?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Guard</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Guard</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735521">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -633,7 +633,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d0ddb83ff9551fc35f8c789d8a572547?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Bot</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Bot</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735769">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -655,7 +655,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d87dc7cde18e776798f1c20ed35791b2?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Sean</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Sean</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663595980">September 19, 2022</span>
     </div>
     <div class="mb-2 text-surface"><strong>Markdown</strong> <em>text</em>.
@@ -669,7 +669,6 @@
 </div>
 
 </div>
-
 <nav aria-label="Comments navigation">
   <ul class="pagination">
                 <li class="page-item active" aria-current="page">

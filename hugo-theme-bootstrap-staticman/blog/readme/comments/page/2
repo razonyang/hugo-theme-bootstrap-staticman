@@ -423,7 +423,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/d58a8fdbef05b19fa18440f2c3b316b4?d=mp&size=32"
             width="32px" height="32px" />
-            <a class="staticman-comment-name fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">Wowo</a>
+            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">Wowo</a>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735142">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">Yahoo
@@ -441,7 +441,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/c65afa1bdc5e376accb08d918669910f?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">XiaoXiao</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">XiaoXiao</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735314">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">Message from paginated comments page.
@@ -458,7 +458,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/77962ece05a91a96c4a9faf02ba1fa95?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Ming</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Ming</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735593">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -477,7 +477,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/3dc2b3025afbe45fd88e32c4feb693bc?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Kokomi</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Kokomi</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663735682">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">
@@ -499,7 +499,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">Foo</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Foo</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663737157">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">Message without email.
@@ -517,7 +517,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">XiaoXiao</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">XiaoXiao</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663739971">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">OK
@@ -535,7 +535,7 @@
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name fw-bold me-2">John</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">John</span>
         <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663740016">September 21, 2022</span>
     </div>
     <div class="mb-2 text-surface">Hi
@@ -549,7 +549,6 @@
 </div>
 
 </div>
-
 <nav aria-label="Comments navigation">
   <ul class="pagination">
                 <li class="page-item">
