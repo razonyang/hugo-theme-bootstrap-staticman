@@ -34,7 +34,7 @@
   <link rel="manifest" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/manifest.json">
 <link rel="alternate" hreflang="zh-hans" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/zh-hans/blog/hello-world/" />
 
-<link data-precache rel="stylesheet" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/assets/main/bundle.min.a534e7877e8b5e2c4d374c4eef7698a0bec9ca713e73015390c218ec55ed4516.css" integrity="sha256-pTTnh36LXixNN0xO73aYoL7JynE+cwFTkMIY7FXtRRY=" crossorigin="anonymous">
+<link data-precache rel="stylesheet" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/assets/main/bundle.min.3be10c785758c00d2ca599de60ebb102964bf400c0386ffce47ca2ff753ea4ea.css" integrity="sha256-O+EMeFdYwA0spZneYOuxApZL9ADAOG/85Hyi/3U+pOo=" crossorigin="anonymous">
 
     <link data-precache rel="stylesheet" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/assets/viewer/bundle.min.6d0fc65b8b058ac563091dc5c36f61afba5dd705058680aa24f1d5a3bcf0064d.css" integrity="sha256-bQ/GW4sFisVjCR3Fw29hr7pd1wUFhoCqJPHVo7zwBk0=" crossorigin="anonymous">
 
@@ -310,6 +310,7 @@
             const tokenInput = form.querySelector('input[name="reCaptchaToken"]')
             const id = grecaptcha.render(item, {
                 sitekey : '6LcWQH0gAAAAAJPZN9S-wrugRUukNOiHfxmFOSM5',
+                theme: document.documentElement.getAttribute('data-bs-theme'),
                 callback: function(token) {
                     tokenInput.value = token
                     button.removeAttribute('disabled')
@@ -340,16 +341,16 @@
 <input name="reply_to" type="hidden" value="">
 <input name="root_id" type="hidden" value="">
 <div class="row g-3 mb-2">
-    <div class="form-floating col-4 mb-2 required">
+    <div class="form-floating col-12 col-md-4 mb-2 required">
         <input class="form-control form-control-sm" aria-label="Name" name="name" type="text" id="comment-name" required />
         <label for="languages-select">Name</label>
     </div>
-    <div class="form-floating col-4 mb-2 ms-auto">
+    <div class="form-floating col-12 col-md-4 mb-2 ms-auto">
         <input class="form-control form-control-sm" aria-label="Email" name="email" type="email" id="comment-email"
             />
         <label for="comment-email">Email</label>
     </div>
-    <div class="form-floating col-4 mb-2">
+    <div class="form-floating col-12 col-md-4 mb-2">
         <input class="form-control form-control-sm" aria-label="URL" name="url" type="url" id="comment-url"
             />
         <label for="comment-url">URL</label>
@@ -386,16 +387,16 @@
 <input name="reply_to" type="hidden" value="">
 <input name="root_id" type="hidden" value="">
 <div class="row g-3 mb-2">
-    <div class="form-floating col-4 mb-2 required">
+    <div class="form-floating col-12 col-md-4 mb-2 required">
         <input class="form-control form-control-sm" aria-label="Name" name="name" type="text" id="comment-name" required />
         <label for="languages-select">Name</label>
     </div>
-    <div class="form-floating col-4 mb-2 ms-auto">
+    <div class="form-floating col-12 col-md-4 mb-2 ms-auto">
         <input class="form-control form-control-sm" aria-label="Email" name="email" type="email" id="comment-email"
             />
         <label for="comment-email">Email</label>
     </div>
-    <div class="form-floating col-4 mb-2">
+    <div class="form-floating col-12 col-md-4 mb-2">
         <input class="form-control form-control-sm" aria-label="URL" name="url" type="url" id="comment-url"
             />
         <label for="comment-url">URL</label>
