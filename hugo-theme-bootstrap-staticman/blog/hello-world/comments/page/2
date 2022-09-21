@@ -379,7 +379,7 @@
     <div class="row card component">
         <div class="card-body">
             <h1 class="card-title post-title my-2 fs-4 mb-4">
-                Comments - Page 1 - <a class="text-primary" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/blog/hello-world/">Hello World</a>
+                Comments - Page 2 - <a class="text-primary" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/blog/hello-world/">Hello World</a>
             </h1><form id="staticman-comment-form" class="needs-validation mb-3" novalidate>
 <input name="slug" type="hidden" value="blog/hello-world/comments/en">
 <input name="reply_to" type="hidden" value="">
@@ -418,193 +418,19 @@
 </form>
 
 <div class="staticman-comments mb-3">
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-60926290-38ac-11ed-9afb-dd67624f79f5">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
-            width="32px" height="32px" />
-            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663654852">September 20, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">Hello message.
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="60926290-38ac-11ed-9afb-dd67624f79f5" data-comment-id="60926290-38ac-11ed-9afb-dd67624f79f5" data-comment-name="RazonYang">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-        <div class="ps-3 mt-3 border-secondary border-opacity-25">
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-15c1bf30-38ad-11ed-9afb-dd67624f79f5">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/e7501ec2b3cd95d6af8964743c1d27c7?d=mp&size=32"
-            width="32px" height="32px" />
-            <a class="staticman-comment-name text-surface fw-bold me-2" href="https://razonyang.com/" target="_blank" rel="noopener noreferrer">RazonYang</a>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655156">September 20, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">
-        <a class="fw-bold me-2" href="#comment-c15c85b0-38ac-11ed-9afb-dd67624f79f5">@John</a>😀
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="60926290-38ac-11ed-9afb-dd67624f79f5" data-comment-id="15c1bf30-38ad-11ed-9afb-dd67624f79f5" data-comment-name="RazonYang">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-39e8ecb0-3995-11ed-aa1c-bf72120b1f47">
+<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-e1b884f0-3995-11ed-aa1c-bf72120b1f47">
     <div class="mb-2 d-flex flex-wrap align-items-center">
         <img class="staticman-comment-avatar rounded-circle me-2"
             src="https://www.gravatar.com/avatar/?d=mp&size=32"
             width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Kokomi</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663754860">September 21, 2022</span>
+            <span class="staticman-comment-name text-surface fw-bold me-2">Tom</span>
+        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663755142">September 21, 2022</span>
     </div>
-    <div class="mb-2 text-surface">
-        <a class="fw-bold me-2" href="#comment-c15c85b0-38ac-11ed-9afb-dd67624f79f5">@John</a>Add more reply messages.
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="60926290-38ac-11ed-9afb-dd67624f79f5" data-comment-id="39e8ecb0-3995-11ed-aa1c-bf72120b1f47" data-comment-name="Kokomi">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-c15c85b0-38ac-11ed-9afb-dd67624f79f5">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/d4c74594d841139328695756648b6bd6?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">John</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655015">September 20, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">
-        <a class="fw-bold me-2" href="#comment-60926290-38ac-11ed-9afb-dd67624f79f5">@RazonYang</a>:)
+    <div class="mb-2 text-surface">😺
     </div>
     <div>
         <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="60926290-38ac-11ed-9afb-dd67624f79f5" data-comment-id="c15c85b0-38ac-11ed-9afb-dd67624f79f5" data-comment-name="John">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-        </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-4042ca10-38ad-11ed-9afb-dd67624f79f5">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/d87dc7cde18e776798f1c20ed35791b2?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Sean</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663655227">September 20, 2022</span>
-    </div>
-    <div class="mb-2 text-surface"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;Hello world.&#34;</span>
-</span></span></code></pre></div>
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="4042ca10-38ad-11ed-9afb-dd67624f79f5" data-comment-id="4042ca10-38ad-11ed-9afb-dd67624f79f5" data-comment-name="Sean">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-        <div class="ps-3 mt-3 border-secondary border-opacity-25">
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-ac9bf080-396e-11ed-a3f5-2fce7b14c33b">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Jolin</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663738302">September 21, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">
-        <a class="fw-bold me-2" href="#comment-4042ca10-38ad-11ed-9afb-dd67624f79f5">@Sean</a><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-php" data-lang="php"><span class="line"><span class="cl"><span class="k">echo</span> <span class="s2">&#34;Hello world.&#34;</span><span class="p">;</span>
-</span></span></code></pre></div>
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="4042ca10-38ad-11ed-9afb-dd67624f79f5" data-comment-id="ac9bf080-396e-11ed-a3f5-2fce7b14c33b" data-comment-name="Jolin">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-cec869e0-396e-11ed-a3f5-2fce7b14c33b">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Ozzo</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663738360">September 21, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">
-        <a class="fw-bold me-2" href="#comment-4042ca10-38ad-11ed-9afb-dd67624f79f5">@Sean</a><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="nx">fmt</span><span class="p">.</span><span class="nf">Println</span><span class="p">(</span><span class="s">&#34;Hello world.&#34;</span><span class="p">)</span>
-</span></span></code></pre></div>
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="4042ca10-38ad-11ed-9afb-dd67624f79f5" data-comment-id="cec869e0-396e-11ed-a3f5-2fce7b14c33b" data-comment-name="Ozzo">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-        </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-009be340-3995-11ed-aa1c-bf72120b1f47">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Jax</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663754764">September 21, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">Nice explanation.
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="009be340-3995-11ed-aa1c-bf72120b1f47" data-comment-id="009be340-3995-11ed-aa1c-bf72120b1f47" data-comment-name="Jax">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-10886d00-3995-11ed-aa1c-bf72120b1f47">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Zed</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663754791">September 21, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">LOL
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="10886d00-3995-11ed-aa1c-bf72120b1f47" data-comment-id="10886d00-3995-11ed-aa1c-bf72120b1f47" data-comment-name="Zed">
-            <i class="fas fa-fw fa-reply"></i> Reply
-        </button>
-    </div>
-</div>
-
-<div class="staticman-comment mb-3 ps-3 pt-3 pb-2 border-top border-start border-secondary border-opacity-25 rounded-top" id="comment-ad1f1880-3995-11ed-aa1c-bf72120b1f47">
-    <div class="mb-2 d-flex flex-wrap align-items-center">
-        <img class="staticman-comment-avatar rounded-circle me-2"
-            src="https://www.gravatar.com/avatar/?d=mp&size=32"
-            width="32px" height="32px" />
-            <span class="staticman-comment-name text-surface fw-bold me-2">Yaya</span>
-        <span class="staticman-comment-date mtext-muted fs-sm" data-timestamp="1663755053">September 21, 2022</span>
-    </div>
-    <div class="mb-2 text-surface">Yet another message
-    </div>
-    <div>
-        <button class="btn btn-sm btn-secondary staticman-reply-button px-1 py-0" data-bs-toggle="modal" data-bs-target="#comment-reply-modal"
-            data-root-id="ad1f1880-3995-11ed-aa1c-bf72120b1f47" data-comment-id="ad1f1880-3995-11ed-aa1c-bf72120b1f47" data-comment-name="Yaya">
+            data-root-id="e1b884f0-3995-11ed-aa1c-bf72120b1f47" data-comment-id="e1b884f0-3995-11ed-aa1c-bf72120b1f47" data-comment-name="Tom">
             <i class="fas fa-fw fa-reply"></i> Reply
         </button>
     </div>
@@ -613,11 +439,11 @@
 </div>
 <nav aria-label="Comments navigation">
   <ul class="pagination">
-                <li class="page-item active" aria-current="page">
-                    <a class="page-link" href="javascript: void(0);">1</a>
-                </li>
                 <li class="page-item">
-                    <a class="page-link" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/blog/hello-world/comments/page/2">2</a>
+                    <a class="page-link" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/blog/hello-world/comments/page/1">1</a>
+                </li>
+                <li class="page-item active" aria-current="page">
+                    <a class="page-link" href="javascript: void(0);">2</a>
                 </li>
   </ul>
 </nav>
