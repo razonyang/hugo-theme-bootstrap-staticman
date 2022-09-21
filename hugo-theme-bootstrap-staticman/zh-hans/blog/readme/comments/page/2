@@ -38,6 +38,7 @@
 
     <link data-precache rel="stylesheet" href="https://razonyang.github.io/hugo-theme-bootstrap-staticman/assets/viewer/bundle.min.6d0fc65b8b058ac563091dc5c36f61afba5dd705058680aa24f1d5a3bcf0064d.css" integrity="sha256-bQ/GW4sFisVjCR3Fw29hr7pd1wUFhoCqJPHVo7zwBk0=" crossorigin="anonymous">
 
+<meta http-equiv='Content-Security-Policy' content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data: *; media-src 'self' ;">
 </head>
   <body><header>
   
