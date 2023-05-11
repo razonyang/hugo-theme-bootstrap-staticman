@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://projects.razonyang.com/hugo-theme-bootstrap-staticman/sitemap.xml
+Sitemap: https://hbs-staticman.razonyang.com/sitemap.xml
